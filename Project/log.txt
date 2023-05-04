@@ -1,0 +1,7 @@
+ERROR:app.routes.user:Non-existent user_id: 5 was requested
+INFO:app.routes.user:About to delete user_id: 0
+ERROR:app.routes.user:Non-existent user_id: 1 was requested
+ERROR app.routes.user 2023-05-02 19:34:36,383 Non-existent user_id: 1 was requested
+ERROR app.routes.user 2023-05-02 19:36:58,016 Non-existent user_id: 3 was requested
+ERROR app.routes.user 2023-05-02 Non-existent user_id: 3 was requested
+ERROR app.routes.user 2023-05-02 19:39:58 Non-existent user_id: 3 was requested
